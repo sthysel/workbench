@@ -19,13 +19,17 @@ Sturdy coach screws to keep it together. Long clamps to keep the shape, a rubber
 Countersink the top screws so they don't interfere with the flat top
 ![counter sunk](construction/countersunk.jpg)
 
-Long 10mm drill bit for pilot holes for the structual coach screws.
+Long 10mm drill bit for pilot holes for the structual coach screws. Note the clever use of isolation tape to mark max drill lenght. No need to overdo it, especially in Jarrah.
 ![drill bit](construction/drillbit.jpg)
 
-Start by assembling the frame
+Start by assembling the frame, get it true, clamp it down, true it up using the mallet. Use a square.
 ![frame](construction/frame.jpg)
-![side assembly](construction/side-assembly2.jpg)
+
+Assemble the two sides first. Like above, on a flat surface. Lift them up and add the horizontal supports.
+
 ![sides](construction/sides.jpg)
+![side assembly](construction/side-assembly2.jpg)
+
 ![bench](construction/bench2.jpg)
 ![frame side](construction/frame-side.jpg)
 ![side assembly](construction/side-assembly.jpg)
