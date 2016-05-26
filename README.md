@@ -27,14 +27,17 @@ Start by assembling the frame, get it true, clamp it down, true it up using the 
 
 Assemble the two sides first. Like above, on a flat surface. Lift them up and add the horizontal supports.
 
-![side assembly](construction/side-assembly.jpg)
 ![sides](construction/sides.jpg)
+![side assembly](construction/side-assembly.jpg)
 ![side assembly](construction/side-assembly2.jpg)
 
 ![bench](construction/bench2.jpg)
 ![frame side](construction/frame-side.jpg)
 
-Paint it up, don't be a little bitch.
+Once the structural members are in place add the MDF tops.
+Screw doen with countersunc hex screws.
+
+Paint that shit up, don't be a little bitch.
 ![paint](construction/paint1.jpg)
 ![paint](construction/paint2.jpg)
 
