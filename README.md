@@ -7,6 +7,15 @@ Jarrah is hard and heavy, a beatifull wood, makes for a fine solid bench.
 The final product in light duty use
 ![assembled](construction/assembled3.jpg)  
 
+## Materials
+* Re-purposed Jarrah square poles 9x9cm
+* New pine poles 90x90
+* Many 12d 160 galvanised coach screws
+* Many flat top hex screws for screwing down
+* 900x600x22 MDF shelfs
+* Roll of 600X3 rubber 
+* Paint
+
 ## Screwing
 Sturdy coach screws to keep it together. Long clamps to keep the shape, a rubber mallet for fine adjustments.
 ![coach screws](construction/coach-screws.jpg)
@@ -21,10 +30,15 @@ Long 10mm drill bit for pilot holes for the structual coach screws. Note the cle
 Start by assembling the frame, get it true, clamp it down, true it up using the mallet. Use a square.
 ![frame](construction/frame.jpg)
 
-Assemble the two sides first. Like above, on a flat surface. Lift them up and add the horizontal supports.
+AssembLe the two sides first. Like above, on a flat surface. Lift them up and add the horizontal supports.
+Don't crush other foot with Jarah beams.
 
 ![sides](construction/sides.jpg)
+
+Note the countersunk top screws. No need to countersink the bottom as the castors fit over them (for that brand).
 ![side assembly](construction/side-assembly.jpg)
+
+True up and clamp down before drilling pilots.
 ![side assembly](construction/side-assembly2.jpg)
 
 ![bench](construction/bench2.jpg)
@@ -32,7 +46,7 @@ Assemble the two sides first. Like above, on a flat surface. Lift them up and ad
 
 ## The tops
 Once the structural members are in place add the MDF tops.
-Screw doen with countersunc hex screws.
+Screw down with countersunk flat top hex screws.
 
 ## Wheels
 Heavy duty lockable castor wheels from bunnings
