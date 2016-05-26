@@ -8,7 +8,7 @@ The final product in light duty use
 ![assembled](construction/assembled3.jpg)  
 
 ## Materials
-* Re-purposed Jarrah square poles 9x9cm
+* Re-purposed Jarrah square poles 90x90
 * New pine poles 90x90
 * Many 12d 160 galvanised coach screws
 * Many flat top hex screws for screwing down
